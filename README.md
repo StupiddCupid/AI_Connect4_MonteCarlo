@@ -1,4 +1,5 @@
 # Project-2
+
 Part II: Coding the Agent Using minimax with alpha-beta pruning, code your algorithm to play the game.
 
 To make things easier and faster for us to read and go over the code, we took advantage of Michael's implementaion of min and max in PA2 helper video.
